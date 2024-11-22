@@ -1,2 +1,5 @@
 .edulink
 .chromadb*
+
+__pycache__*
+.temp
